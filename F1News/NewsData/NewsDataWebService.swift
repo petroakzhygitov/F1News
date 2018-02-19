@@ -1,0 +1,27 @@
+import Foundation
+
+class NewsDataWebService {
+    private var webService: WebService
+
+    convenience init() {
+        self.init(webService: WebService())
+    }
+
+    init(webService: WebService) {
+        self.webService = webService
+    }
+
+    func loadNewsData(completion: @escaping (Array<NewDataItem>, Error?) -> ()) {
+        let url = URL(string:RSSPath.newsRU.rawValue)!
+        self.webService.downLoadString(url: url) { dataString, error in
+            guard error == nil else {
+                return completion([], error)
+            }
+            let data = dataString.data(using: .utf8)!
+            
+            let parser: NewsDataXMLParser = NewsDataXMLParser()
+            let newsDataItems: Array<NewDataItem> = parser.parse(data: data)
+            completion(newsDataItems, nil)
+        }
+    }
+}
