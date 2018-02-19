@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Формула 1 на F1news.ru</title>
+    <description>Формула 1 - новости чемпионата 2017, эксклюзивные интервью, календарь F1, личный зачет, кубок конструкторов, фото, онлайн трансляции</description>
+    <link>https://www.f1news.ru/</link> 
+    <language>ru</language> 
+    <copyright>F1news.ru</copyright>  
+    <generator>DS RSS Generator 1.3.beta</generator>
+    <ttl>60</ttl>
+    <image>
+      <title>Формула 1 на F1news.ru</title> 
+      <url>https://cdn.f1ne.ws/bundles/f1newssite/img/f1news_logo.jpg</url> 
+      <link>https://www.f1news.ru/</link> 
+    </image>
+    <atom:link href="https://www.f1news.ru/export/news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сирил Абитебул: Мы действовали слишком агрессивно</title>
+      <description>
+Управляющий директор Renault Sport Сирил Абитебул объяснил причины проблем с моторами и говорил о перспективах заводской команды...
+      </description>
+      <link>https://www.f1news.ru/interview/abiteboul/126009.shtml</link>
+      <guid>http://www.f1news.ru/interview/abiteboul/126009.shtml</guid>
+      <pubDate>Thu, 14 Dec 2017 21:28:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/abiteboul/126009.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Окон: Всё, что можно исправить, нужно исправить</title>
+      <description>
+Эстебан Окон отлично провёл первый полный сезон в Force India. УВ 2018-м молодой француз надеется на большее…
+      </description>
+      <link>https://www.f1news.ru/news/f1-126012.html</link>
+      <guid>http://www.f1news.ru/news/f1-126012.html</guid>
+      <pubDate>Thu, 14 Dec 2017 21:25:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/ocon/124453.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>F1News.ru: Традиционный опрос по итогам сезона</title>
+      <description>
+Традиционный опрос читателей по итогам прошедшего сезона...
+      </description>
+      <link>https://www.f1news.ru/news/f1-126007.html</link>
+      <guid>http://www.f1news.ru/news/f1-126007.html</guid>
+      <pubDate>Thu, 14 Dec 2017 20:30:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/126007.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ки: Мотор Honda нельзя просто поставить на то же место</title>
+      <description>
+Технический директор Toro Rosso Джеймс Ки рассказал о сложностях перехода на моторы Honda...
+      </description>
+      <link>https://www.f1news.ru/news/f1-126010.html</link>
+      <guid>http://www.f1news.ru/news/f1-126010.html</guid>
+      <pubDate>Thu, 14 Dec 2017 20:16:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/key/119248.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ф2: Фуоко и Делетраз подписали контракт с Charouz</title>
+      <description>
+Команда Charouz Racing System, дебютирующая в Формуле 2 в следующем году, объявила состав на следующий сезон. Ранее команда участвовала в Формуле V8 3.5 под брендом Lotus.
+      </description>
+      <link>https://www.f1news.ru/news/f2-126008.html</link>
+      <guid>http://www.f1news.ru/news/f2-126008.html</guid>
+      <pubDate>Thu, 14 Dec 2017 18:36:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/126008.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Гонщики Toro Rosso прошли подгонку сиденья</title>
+      <description>
+Гонщики Toro Rosso побывали на базе команды в Фаэнце, чтобы изготовить индивидуальное сиденье для установки в кокпит новой STR13...
+      </description>
+      <link>https://www.f1news.ru/news/f1-126006.html</link>
+      <guid>http://www.f1news.ru/news/f1-126006.html</guid>
+      <pubDate>Thu, 14 Dec 2017 17:17:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/hartley/126006.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>В Ф1 обсуждают присутствие грид-герлз на стартовом поле</title>
+      <description>
+В Формуле 1 обсуждают целесообразность присутствия девушек с номерами гонщиков на стартовом поле...
+      </description>
+      <link>https://www.f1news.ru/news/f1-126005.html</link>
+      <guid>http://www.f1news.ru/news/f1-126005.html</guid>
+      <pubDate>Thu, 14 Dec 2017 16:26:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/ricciardo/126005.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Видео: Кими Райкконен: Верните мне руль!</title>
+      <description>
+Журналисты официального сайта чемпионата провели опрос по поводу лучшего видеоролика минувшего сезона – и большую часть голосов собрал эмоциональный момент во время Гран При Азербайджана...
+      </description>
+      <link>https://www.f1news.ru/news/f1-126004.html</link>
+      <guid>http://www.f1news.ru/news/f1-126004.html</guid>
+      <pubDate>Thu, 14 Dec 2017 15:54:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/126004.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Колонка Эльмира Валеева: Сироткин против кубицефилии</title>
+      <description>
+То, что происходит сейчас в Формуле 1 - просто удивительно. Выбор пилота в Williams дал редкую возможность взглянуть на международные медиа с необычной стороны...
+      </description>
+      <link>https://www.f1news.ru/columns/valeev/126003.shtml</link>
+      <guid>http://www.f1news.ru/columns/valeev/126003.shtml</guid>
+      <pubDate>Thu, 14 Dec 2017 15:23:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/kubica/126003.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>WEC: Rebellion назвала состав на «суперсезон» в LMP1</title>
+      <description>
+Команда Rebellion Racing официально подтвердила возвращение в категории LMP1 чемпионата мира FIA WEC в «суперсезоне» 2018-2019 годов.
+      </description>
+      <link>https://www.f1news.ru/news/autosport-126002.html</link>
+      <guid>http://www.f1news.ru/news/autosport-126002.html</guid>
+      <pubDate>Thu, 14 Dec 2017 14:30:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/126002.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Отец Роберта Кубицы: Ещё не всё потеряно</title>
+      <description>
+Шансы Роберта Кубицы продолжить карьеру в Williams невелики, в ближайшие часы команда должна подтвердить это официально, но отец гонщика Артур не теряет надежды...
+      </description>
+      <link>https://www.f1news.ru/news/f1-126001.html</link>
+      <guid>http://www.f1news.ru/news/f1-126001.html</guid>
+      <pubDate>Thu, 14 Dec 2017 14:21:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/kubica/126001.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Дочь Михаэля Шумахера удостоена награды</title>
+      <description>
+Джина-Мария Шумахер, дочь семикратного чемпиона мира Михаэля Шумахера, удостоена престижной награды на церемонии Audi Generation Awards, прошедшей в Мюнхене.
+      </description>
+      <link>https://www.f1news.ru/news/f1-126000.html</link>
+      <guid>http://www.f1news.ru/news/f1-126000.html</guid>
+      <pubDate>Thu, 14 Dec 2017 13:48:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/126000.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Хартли: Алонсо понравятся гонки на выносливость</title>
+      <description>
+Чемпион WEC Брендон Хартли рассказал о работе в Toro Rosso, а также прокомментировал планы Фернандо Алонсо выступить в &quot;24-х часах Ле-Мана&quot;.
+      </description>
+      <link>https://www.f1news.ru/news/f1-125999.html</link>
+      <guid>http://www.f1news.ru/news/f1-125999.html</guid>
+      <pubDate>Thu, 14 Dec 2017 13:24:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/hartley/125999.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Тото Вольфф: Мы ищем нового Льюиса Хэмилтона</title>
+      <description>
+Руководитель Mercedes Motorsport Тото Вольфф признал, что в команде уже работают на долгосрочную перспективу и хотят через несколько лет найти полноценную замену Льюису Хэмилтону...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125997.html</link>
+      <guid>http://www.f1news.ru/news/f1-125997.html</guid>
+      <pubDate>Thu, 14 Dec 2017 13:08:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/hamilton/125997.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Хэмилтон и Mercedes представили фотоальбом</title>
+      <description>
+Льюис Хэмилтон и Mercedes представили официальный фотоальбом команды по итогам года, который принёс Льюису четвёртый титул в личном зачёте, а команде – четвёртый Кубок конструкторов.
+      </description>
+      <link>https://www.f1news.ru/news/f1-125996.html</link>
+      <guid>http://www.f1news.ru/news/f1-125996.html</guid>
+      <pubDate>Thu, 14 Dec 2017 09:40:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/hamilton/125996.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>В Барселоне ждут 50.000 болельщиков на зимних тестах</title>
+      <description>
+В руководстве испанского автодрома подвели итоги года и рассказали о своих ожиданиях...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125995.html</link>
+      <guid>http://www.f1news.ru/news/f1-125995.html</guid>
+      <pubDate>Thu, 14 Dec 2017 08:46:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/125995.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Итоги сезона: Red Bull Racing</title>
+      <description>
+В Red Bull Racing связывали большие надежды с сезоном 2017 года, ведь при серьёзных переменах в регламенте Эдриан Ньюи не раз добивался успеха, но команда заработала на 100 очков меньше, чем в прошлом сезоне, закончив год на третьей строчке.
+      </description>
+      <link>https://www.f1news.ru/news/f1-125956.html</link>
+      <guid>http://www.f1news.ru/news/f1-125956.html</guid>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/redbullracing/125956.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Арривабене: Ferrari нужна привычка побеждать</title>
+      <description>
+Руководитель команды Ferrari Маурицио Арривабене считает, что Скудерии нужно полностью изменить подход к гонкам и отношение к успехам, чтобы в следующем году выиграть титул…
+      </description>
+      <link>https://www.f1news.ru/news/f1-125994.html</link>
+      <guid>http://www.f1news.ru/news/f1-125994.html</guid>
+      <pubDate>Wed, 13 Dec 2017 21:26:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/arrivabene/120827.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Шарль Леклер: Говорят, я похож на Гарри Поттера</title>
+      <description>
+Шарль Леклер с первой попытки завоевал титул в Формуле 2 и в следующем году дебютирует в Формуле 1 в составе Sauber. Сотрудники официального журнала Формулы 2 задали ему несколько личных вопросов...
+      </description>
+      <link>https://www.f1news.ru/interview/leclerc/125992.shtml</link>
+      <guid>http://www.f1news.ru/interview/leclerc/125992.shtml</guid>
+      <pubDate>Wed, 13 Dec 2017 21:10:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/leclerc/125992.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ники Лауда готов выкупить свою авиакомпанию</title>
+      <description>
+Неисполнительный директор Mercedes Ники Лауда заявил, что заинтересован в покупке авиакомпании Niki…
+      </description>
+      <link>https://www.f1news.ru/news/f1-125991.html</link>
+      <guid>http://www.f1news.ru/news/f1-125991.html</guid>
+      <pubDate>Wed, 13 Dec 2017 19:46:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/lauda/125991.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Видео: Макс Ферстаппен играет с профессионалом</title>
+      <description>
+Макс Ферстаппен сразился в игровом симуляторе Street Fighter с одним их самых успешных игроков Дэррилом «Snake Eyez» Льюисом.
+      </description>
+      <link>https://www.f1news.ru/news/f1-125990.html</link>
+      <guid>http://www.f1news.ru/news/f1-125990.html</guid>
+      <pubDate>Wed, 13 Dec 2017 19:02:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/max_verstappen/125990-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Эрик Булье: Не стоит сейчас говорить об ожиданиях</title>
+      <description>
+Очередной сложный сезон для McLaren закончился расставанием с Honda. Гоночный директор Эрик Булье считает, что теперь у команды есть повод для оптимизма...
+      </description>
+      <link>https://www.f1news.ru/interview/boullier/125988.shtml</link>
+      <guid>http://www.f1news.ru/interview/boullier/125988.shtml</guid>
+      <pubDate>Wed, 13 Dec 2017 18:30:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/boullier/125988.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>В McLaren разыграют шлем Мики Хаккинена</title>
+      <description>
+В McLaren объявили о старте творческого конкурса для болельщиков с отличным главным призом – полноразмерной копией шлема Мики Хаккинена с его автографом.
+
+      </description>
+      <link>https://www.f1news.ru/news/f1-125989.html</link>
+      <guid>http://www.f1news.ru/news/f1-125989.html</guid>
+      <pubDate>Wed, 13 Dec 2017 18:05:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/125989.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Айо Комацу о пути в автоспорт и своей работе...</title>
+      <description>
+В чате с болельщиками японский инженер рассказал о своей карьере, о работе по ходу уик-энда и планах команды на следующий сезон...
+      </description>
+      <link>https://www.f1news.ru/interview/komatsu/125984.shtml</link>
+      <guid>http://www.f1news.ru/interview/komatsu/125984.shtml</guid>
+      <pubDate>Wed, 13 Dec 2017 17:32:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/komatsu/125984.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Коллекционер купил машины Формулы 1 за криптовалюту</title>
+      <description>
+Неизвестный китайский коллекционер купил коллекцию машин формулы 1 за виртуальный аналог четырёх миллионов фунтов...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125987.html</link>
+      <guid>http://www.f1news.ru/news/f1-125987.html</guid>
+      <pubDate>Wed, 13 Dec 2017 17:26:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/125987.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Норрис: Мне хотелось произвести впечатление на McLaren</title>
+      <description>
+Резервный пилот McLaren Ландо Норрис проведёт следующий сезон в Формуле 2 в составе Carlin, но готов сесть за руль Формулы 1, если McLaren понадобятся его услуги…
+      </description>
+      <link>https://www.f1news.ru/news/autosport-125986.html</link>
+      <guid>http://www.f1news.ru/news/autosport-125986.html</guid>
+      <pubDate>Wed, 13 Dec 2017 16:47:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/norris/125252.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Вурц: Впервые все гонщики входят в GPDA</title>
+      <description>
+Председатель профсоюза гонщиков GPDA Алекс Вурц подтвердил, что сейчас его членами являются абсолютно все действующие пилоты Формулы 1…
+      </description>
+      <link>https://www.f1news.ru/news/f1-125985.html</link>
+      <guid>http://www.f1news.ru/news/f1-125985.html</guid>
+      <pubDate>Wed, 13 Dec 2017 15:15:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/wurz/125985.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Британские эксперты: Хэмилтон победил бы и в Ferrari</title>
+      <description>
+Британские гоночные эксперты высказывают мнения, что Льюис Хэмилтон выиграл бы чемпионский титул в 2017-м даже за рулем Ferrari…
+      </description>
+      <link>https://www.f1news.ru/news/f1-125983.html</link>
+      <guid>http://www.f1news.ru/news/f1-125983.html</guid>
+      <pubDate>Wed, 13 Dec 2017 14:18:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/vettel/125983.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Гюнтер Штайнер: Сказывается недостаток опыта</title>
+      <description>
+Многие критикуют Haas за то, что команда покупает большую часть элементов машины, а не сама их разрабатывает, но её руководитель не видит в этом проблем...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125982.html</link>
+      <guid>http://www.f1news.ru/news/f1-125982.html</guid>
+      <pubDate>Wed, 13 Dec 2017 13:27:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/steiner/125982.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Льюис Хэмилтон: Сезон нельзя назвать идеальным</title>
+      <description>
+Прежде чем отправиться на зимние каникулы, Льюис Хэмилтон посетил завод Mercedes-Benz в Зиндельфингене и ответил на несколько вопросов пресс-службы команды.
+      </description>
+      <link>https://www.f1news.ru/interview/hamilton/125981.shtml</link>
+      <guid>http://www.f1news.ru/interview/hamilton/125981.shtml</guid>
+      <pubDate>Wed, 13 Dec 2017 12:52:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/hamilton/125981.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Видео: В Renault усовершенствовали сани Санта-Клауса</title>
+      <description>
+Технический департамент команды Renault, которым руководят Боб Белл и Ник Честер, известен своим творческим подходом к делу и оригинальными разработками, и под конец 2017 года в Энстоуне представили ещё один интересный проект...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125980.html</link>
+      <guid>http://www.f1news.ru/news/f1-125980.html</guid>
+      <pubDate>Wed, 13 Dec 2017 01:12:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/renault/125980-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Итоги сезона: Sahara Force India</title>
+      <description>
+В 2017-м Force India повторила лучший результат в своей истории, заняв в юбилейном десятом сезоне четвёртое место в Кубке конструкторов – с ещё большим числом очков, чем год назад…
+      </description>
+      <link>https://www.f1news.ru/news/f1-125953.html</link>
+      <guid>http://www.f1news.ru/news/f1-125953.html</guid>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/forceindia/125953.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Булье: Первая задача Норриса – добиться успеха в Ф2</title>
+      <description>
+По словам гоночного директора McLaren Эрика Булье, Ландо Норриса, нового резервного и тест-пилота команды, в 2018 году ждёт очень много дел, несмотря на то, что пока нет планов привлекать его к работе на пятничных тренировках...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125979.html</link>
+      <guid>http://www.f1news.ru/news/f1-125979.html</guid>
+      <pubDate>Tue, 12 Dec 2017 20:27:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/boullier/125979.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Организаторы Гран При Франции: Без права на ошибку</title>
+      <description>
+Французская федерация автоспорта стала партнером инициативной группы, занимающейся проведением Гран При Франции. Кристиан Эстрози прокомментировал это соглашение и рассказал о некоторых деталях развлекательной программы.
+      </description>
+      <link>https://www.f1news.ru/news/f1-125978.html</link>
+      <guid>http://www.f1news.ru/news/f1-125978.html</guid>
+      <pubDate>Tue, 12 Dec 2017 19:50:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/125978.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Алонсо прошел подгонку сиденья в кокпите новой машины</title>
+      <description>
+До начала зимних тестов ещё далеко, но в McLaren полным ходом ведут подготовку к следующему сезону, и команда вместе с Фернандо Алонсо уже приступила к подгонке сиденья и прочим процедурам, которые позволяют гонщику найти правильную посадку в кокпите...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125977.html</link>
+      <guid>http://www.f1news.ru/news/f1-125977.html</guid>
+      <pubDate>Tue, 12 Dec 2017 19:01:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/alonso/125977-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Билли Монгер надеется выступать в британской Ф3</title>
+      <description>
+Британец Билли Монгер, в апреле получивший тяжелейшую травму во время гонки Формулы 4 в Донингтоне, надеется, что уже в следующем году сможет вернуться в автоспорт, после того, как FIA внесёт определённые коррективы в правила...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125976.html</link>
+      <guid>http://www.f1news.ru/news/f1-125976.html</guid>
+      <pubDate>Tue, 12 Dec 2017 17:10:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/125976.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Успехи Окона и Гасли отметили во Франции</title>
+      <description>
+В парижском зале Трианон прошла церемония награждения Troph&amp;#233;es du Sport Automobile французской федерации автоспорта (FFSA). В присутствии президента FIA Жана Тодта премии получили лучшие французские гонщики и команды.
+      </description>
+      <link>https://www.f1news.ru/news/f1-125975.html</link>
+      <guid>http://www.f1news.ru/news/f1-125975.html</guid>
+      <pubDate>Tue, 12 Dec 2017 17:02:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/abiteboul/125975.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Британские эксперты: Сироткин - неплохой выбор</title>
+      <description>
+Британский телеканал Sky Sports собрал трёх экспертов, трёх гоночных репортёров, представляющих разные СМИ, и они попытались ответить на вопрос, действительно ли Сергей Сироткин – наилучший выбор для Williams?..
+      </description>
+      <link>https://www.f1news.ru/news/f1-125973.html</link>
+      <guid>http://www.f1news.ru/news/f1-125973.html</guid>
+      <pubDate>Tue, 12 Dec 2017 16:17:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/sirotkin/125973.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Хэмилтон: Надеюсь, все оценят мои новые проекты</title>
+      <description>
+Увлеченный музыкой, модой и шоу-бизнесом Льюис Хэмилтон надеется, что его новые проекты вызовут не меньший интерес, чем успехи в автоспорте... 
+      </description>
+      <link>https://www.f1news.ru/news/f1-125972.html</link>
+      <guid>http://www.f1news.ru/news/f1-125972.html</guid>
+      <pubDate>Tue, 12 Dec 2017 14:40:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/hamilton/125972.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>В Red Bull не готовы долго ждать решения Риккардо</title>
+      <description>
+Контракт Даниэля Риккардо с Red Bull истекает в конце 2018 года, и, рассуждая о своих дальнейших перспективах, австралиец говорит, что пока не определился и не торопится с выбором. Но, похоже, что в команде не готовы ждать его решения слишком долго...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125971.html</link>
+      <guid>http://www.f1news.ru/news/f1-125971.html</guid>
+      <pubDate>Tue, 12 Dec 2017 14:04:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/horner/125971.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Энди Грин: С мотивацией у нас всё в порядке</title>
+      <description>
+Технический директор Force India о прогрессе команды и подготовке к следующему сезону...
+      </description>
+      <link>https://www.f1news.ru/interview/green/125970.shtml</link>
+      <guid>http://www.f1news.ru/interview/green/125970.shtml</guid>
+      <pubDate>Tue, 12 Dec 2017 13:40:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/green/125970.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Формула Е: В Audi позвали на тесты Мюллера и де Вриза</title>
+      <description>
+В Audi первыми назвали гонщиков, получивших приглашение на молодёжные тесты Формулы Е...
+      </description>
+      <link>https://www.f1news.ru/news/autosport-125969.html</link>
+      <guid>http://www.f1news.ru/news/autosport-125969.html</guid>
+      <pubDate>Tue, 12 Dec 2017 13:25:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/vries/123057.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Хэмилтон – претендент на звание «Спортсмен года» </title>
+      <description>
+Хотя Льюис Хэмилтон решил не участвовать в церемонии подведения итогов традиционного опроса «Спортсмен года», финал которой будет транслироваться в Великобритании в предстоящее воскресенье, BBC Sport представляет его как одного из 12 кандидатов на это звание...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125968.html</link>
+      <guid>http://www.f1news.ru/news/f1-125968.html</guid>
+      <pubDate>Tue, 12 Dec 2017 13:17:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/hamilton/125968.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Гасли надеется бороться за очки в каждый уик-энд</title>
+      <description>
+Пьер Гасли не заработал очков в дебютном сезоне, но рассчитывает регулярно бороться в призовой десятке в 2018-м, когда команда будет использовать моторы Honda.
+      </description>
+      <link>https://www.f1news.ru/news/f1-125967.html</link>
+      <guid>http://www.f1news.ru/news/f1-125967.html</guid>
+      <pubDate>Tue, 12 Dec 2017 10:22:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/alesi/125494.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Итоги сезона: Williams Racing</title>
+      <description>
+Williams вновь заняла пятое место в Кубке конструкторов, заработав почти в два раза меньше очков, чем год назад – и оказавшись слабейшей из команд с моторами Mercedes.
+      </description>
+      <link>https://www.f1news.ru/news/f1-125907.html</link>
+      <guid>http://www.f1news.ru/news/f1-125907.html</guid>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/williams/125907.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Сироткин – фаворит на вакансию в Williams?</title>
+      <description>
+ В Williams не комментировали результаты тестов в Абу-Даби, но источники утверждают, что Сергей Сироткин произвёл лучшее впечатление – и теперь именно он теперь считается фаворитом...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125965.html</link>
+      <guid>http://www.f1news.ru/news/f1-125965.html</guid>
+      <pubDate>Mon, 11 Dec 2017 22:13:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/sirotkin/125965.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ньюи: Вместо Halo стоит придумать что-то более изящное</title>
+      <description>
+Эдриан Ньюи, знаменитый конструктор гоночных машин, убеждён, что система Halo не выдерживает критики с эстетической точки зрения, и считает, что исследования в этой области необходимо продолжать.
+      </description>
+      <link>https://www.f1news.ru/news/f1-125964.html</link>
+      <guid>http://www.f1news.ru/news/f1-125964.html</guid>
+      <pubDate>Mon, 11 Dec 2017 20:57:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/newey/125964.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Владимир Чагин о ралли-рейде «Шёлковый путь-2018» </title>
+      <description>
+Руководитель ралли-рейда «Шёлковый путь» Владимир Чагин в интервью F1News.Ru рассказал, зачем в 2018 году организаторы хотят привлечь авиацию и как планируется сохранить интригу на протяжении всего маршрута.
+      </description>
+      <link>https://www.f1news.ru/news/autosport-125961.html</link>
+      <guid>http://www.f1news.ru/news/autosport-125961.html</guid>
+      <pubDate>Mon, 11 Dec 2017 19:00:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/125961.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Менеджер Force India выступила в суде в защиту Мальи</title>
+      <description>
+В понедельник в Вестминстерском суде Лондона продолжились слушания по делу Виджея Мальи, это уже четвёртый день процесса, и сегодня были приглашены свидетели стороны защиты, в том числе Маргарет Суини, коммерческий директор Force India...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125962.html</link>
+      <guid>http://www.f1news.ru/news/f1-125962.html</guid>
+      <pubDate>Mon, 11 Dec 2017 18:31:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/forceindia/125962.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Франц Тост: Квят заслуживает права выступать в Формуле 1</title>
+      <description>
+Руководитель Toro Rosso Франц Тост об итогах сезона и ожиданиях, связанных с переходом на силовые установки Honda в 2018-м...
+      </description>
+      <link>https://www.f1news.ru/interview/tost/125958.shtml</link>
+      <guid>http://www.f1news.ru/interview/tost/125958.shtml</guid>
+      <pubDate>Mon, 11 Dec 2017 18:00:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/tost/125958.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>В Pirelli назвали составы на первые три этапа</title>
+      <description>
+В Pirelli назвали составы резины на первые три гонки сезона 2018 года.
+      </description>
+      <link>https://www.f1news.ru/tech/125960.shtml</link>
+      <guid>http://www.f1news.ru/tech/125960.shtml</guid>
+      <pubDate>Mon, 11 Dec 2017 17:53:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/pirelli/125960.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Сын Хуана-Пабло Монтойи делает успехи в картинге</title>
+      <description>
+Хуан-Пабло Монтойя, бывший гонщик Формулы 1, IndyCar и NASCAR, в своё время говорил, что никогда не заставлял своего старшего сына Себастьяна заниматься картингом. Однако тот ещё в детском возрасте проявил интерес к этому виду спорта, и с тех пор ни отец, ни сын об этом не жалели...
+      </description>
+      <link>https://www.f1news.ru/news/autosport-125959.html</link>
+      <guid>http://www.f1news.ru/news/autosport-125959.html</guid>
+      <pubDate>Mon, 11 Dec 2017 17:20:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/montoya/125959.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Росберг: Я понял, как Шумахер завоевал семь титулов</title>
+      <description>
+Нико Росберг о карьере телекомментатора и менеджера – и о работе с Михаэлем Шумахером в Mercedes...
+      </description>
+      <link>https://www.f1news.ru/interview/nrosberg/125957.shtml</link>
+      <guid>http://www.f1news.ru/interview/nrosberg/125957.shtml</guid>
+      <pubDate>Mon, 11 Dec 2017 16:43:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/nrosberg/125957.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>«Шёлковый путь-2018»: с самолётами, но без мотоциклов</title>
+      <description>
+В Москве состоялась пресс-конференция организаторов ралли-рейда «Шёлковый путь-2018». 
+      </description>
+      <link>https://www.f1news.ru/news/autosport-125955.html</link>
+      <guid>http://www.f1news.ru/news/autosport-125955.html</guid>
+      <pubDate>Mon, 11 Dec 2017 15:06:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/125955.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Тото Вольфф: Я не сомневаюсь в способностях Боттаса</title>
+      <description>
+В 2018-м за Mercedes продолжит выступать Валттери Боттас, но у него контракт с чемпионской командой только на один сезон. Финская газета Turun Sanomat обратилась к руководителю Mercedes Motorsport Тото Вольффу с вопросом о дальнейших перспективах своего соотечественника... 
+      </description>
+      <link>https://www.f1news.ru/news/f1-125954.html</link>
+      <guid>http://www.f1news.ru/news/f1-125954.html</guid>
+      <pubDate>Mon, 11 Dec 2017 14:35:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/wolff/125954.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Лоренцо Сасси подписал контракт с Mercedes</title>
+      <description>
+В рядах Mercedes очередное пополнение: бывший главный конструктор силовых установок Ferrari Лоренцо Сасси теперь будет работать в Брэкли под началом Энди Кауэлла, главного моториста Mercedes...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125952.html</link>
+      <guid>http://www.f1news.ru/news/f1-125952.html</guid>
+      <pubDate>Mon, 11 Dec 2017 13:18:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/ferrari/125952.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Нико Хюлкенберг: Сайнс важен для развития команды</title>
+      <description>
+Нико Хюлкенберг доволен первым сезоном в Renault и началом сотрудничества с Карлосом Сайнсом, в четырех последних гонках 2017 года сменившим Джолиона Палмера... 
+      </description>
+      <link>https://www.f1news.ru/news/f1-125951.html</link>
+      <guid>http://www.f1news.ru/news/f1-125951.html</guid>
+      <pubDate>Mon, 11 Dec 2017 12:42:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/hulkenberg/125951.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Браун: Оставлять сегодняшние моторы мы не планируем</title>
+      <description>
+Росс комментировал ситуацию с угрозой Ferrari покинуть чемпионат мира, если будут реализованы некоторые инициативы Liberty Media, в частности – о смене регламента на моторы.
+      </description>
+      <link>https://www.f1news.ru/news/f1-125950.html</link>
+      <guid>http://www.f1news.ru/news/f1-125950.html</guid>
+      <pubDate>Mon, 11 Dec 2017 11:57:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/brawn/121390.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Итоги сезона: Renault Sport F1</title>
+      <description>
+В Renault нацеливались на пятое место в Кубке конструкторов, но в последний момент заняли шестое – и остались довольны результатом…
+      </description>
+      <link>https://www.f1news.ru/news/f1-125895.html</link>
+      <guid>http://www.f1news.ru/news/f1-125895.html</guid>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/renault/125895.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Хэмилтон купил дом в престижном районе Лондона</title>
+      <description>
+Британская пресса сообщила об очередном дорогостоящем приобретении Льюиса Хэмилтона: четырёхкратный чемпион мира заплатил 18 млн. фунтов стерлингов за двухэтажный особняк в Кенсингтоне, одном из самых престижных районов британской столицы...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125949.html</link>
+      <guid>http://www.f1news.ru/news/f1-125949.html</guid>
+      <pubDate>Sun, 10 Dec 2017 22:06:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/hamilton/125949-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Фелипе Масса поддержал идею Лукаса ди Грасси</title>
+      <description>
+Фелипе Масса получил новое назначение: ветеран Формулы 1 стал президентом Международной комиссии FIA по картингу и уже поддержал идею Лукаса ди Грасси включить гонки на электрических картах в Олимпийскую программу...
+      </description>
+      <link>https://www.f1news.ru/news/autosport-125948.html</link>
+      <guid>http://www.f1news.ru/news/autosport-125948.html</guid>
+      <pubDate>Sun, 10 Dec 2017 21:17:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/massa/125948.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Норрис: Надо использовать шанс поучиться у Алонсо</title>
+      <description>
+В 2017-м Ландо Норрис выиграл титул в европейской Ф3, а в следующем сезоне перейдёт в Ф2, и также будет работать в качестве резервного гонщика и тест-пилота McLaren. Впрочем, год он начнёт с выступления в «24 часа Дайтоны», где одним из его напарников будет Фернандо Алонсо... 
+      </description>
+      <link>https://www.f1news.ru/interview/norris/125947.shtml</link>
+      <guid>http://www.f1news.ru/interview/norris/125947.shtml</guid>
+      <pubDate>Sun, 10 Dec 2017 20:22:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/norris/125947.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Эстебан Окон оказался в снежной ловушке на трассе М25</title>
+      <description>
+На Великобританию обрушилась зимняя непогода, в некоторых частях страны выпало до 30 см снега, отдельные районы центральной Англии остались без электричества. Разумеется, происходящее сказалось на работе транспорта, и одной из жертв этих неприятностей стал Эстебан Окон...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125946.html</link>
+      <guid>http://www.f1news.ru/news/f1-125946.html</guid>
+      <pubDate>Sun, 10 Dec 2017 18:06:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/ocon/125946.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Хейкки Ковалайнен покатался на раллийной Toyota</title>
+      <description>
+Хейкки Ковалайнен, ещё выступая в Формуле 1, говорил, что активно интересуется ралли. На гоночном празднике Toyota, проходившем на Фудзи, ему предоставилась возможность прокатиться на раллийной машине Yaris WRC...
+      </description>
+      <link>https://www.f1news.ru/news/autosport-125945.html</link>
+      <guid>http://www.f1news.ru/news/autosport-125945.html</guid>
+      <pubDate>Sun, 10 Dec 2017 17:14:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/kovalainen/125945.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Финская пресса о шансах Кими… опередить Мэнселла</title>
+      <description>
+Осенью 2018 года Кими Райкконену исполнится 39 лет – для современной Формулы 1 это немало. Поскольку финн выступает за Ferrari, то теоретически может бороться за титул, что даёт ему шансы занять пятую строчку в рейтинге самых возрастных чемпионов мира в истории Ф1...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125944.html</link>
+      <guid>http://www.f1news.ru/news/f1-125944.html</guid>
+      <pubDate>Sun, 10 Dec 2017 15:58:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/raikkonen/125944.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Фелипе Масса возглавил Комиссию FIA по картингу</title>
+      <description>
+Когда Фелипе Масса объявил о завершении карьеры в Формуле 1, сразу начались разговоры о том, что он может стать спортивным чиновников, и эти предположения действительно сбылись...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125943.html</link>
+      <guid>http://www.f1news.ru/news/f1-125943.html</guid>
+      <pubDate>Sun, 10 Dec 2017 14:47:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/massa/125943.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Хэмилтона раскритиковали после фото на фоне самолёта</title>
+      <description>
+После гала-церемонии FIA, где Льюису Хэмилтону был вручён кубок как чемпиону мира, гонщик Mercedes улетел из столицы Франции, а в социальных сетях появилось его фото на фоне самолёта, что вызвало критические комментарии...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125942.html</link>
+      <guid>http://www.f1news.ru/news/f1-125942.html</guid>
+      <pubDate>Sun, 10 Dec 2017 13:15:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/hamilton/125942.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>В Уокинге представили спорткар McLaren Senna</title>
+      <description>
+McLaren Automotive готовится к производству новой версии спорткара, названной в честь великого бразильского гонщика Айртона Сенны. McLaren Senna обещает стать наиболее экстремальной моделью, которая будет серийно выпускаться на заводе в Уокинге...
+      </description>
+      <link>https://www.f1news.ru/news/f1-125941.html</link>
+      <guid>http://www.f1news.ru/news/f1-125941.html</guid>
+      <pubDate>Sun, 10 Dec 2017 10:13:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/mclaren/125941-1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Итоги сезона: Scuderia Toro Rosso</title>
+      <description>
+Четыре года подряд Scuderia Toro Rosso занимает седьмое место в Кубке конструкторов, но все эти сезоны складывались совершенно по-разному…
+      </description>
+      <link>https://www.f1news.ru/news/f1-125890.html</link>
+      <guid>http://www.f1news.ru/news/f1-125890.html</guid>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0300</pubDate>
+      <enclosure url="https://cdn.f1ne.ws/userfiles/tororosso/125890.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>
