@@ -1,12 +1,5 @@
-//
-//  FirstViewController.swift
-//  F1News
-//
-//  Created by Petro Akzhygitov on 12/12/17.
-//  Copyright © 2017 Petro Akzhygitov. All rights reserved.
-//
-
 import UIKit
+import SDWebImage
 
 class NewsFeedViewController: UITableViewController {
 
@@ -53,17 +46,15 @@ class NewsFeedViewController: UITableViewController {
 
     override func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
         if let newCell = cell as? NewViewCell {
+            
             let newDataItem: NewDataItem = newsDataItems[indexPath.row]
             newCell.titleLabel?.text = newDataItem.title
             newCell.descriptionLabel?.text = newsDataItems[indexPath.row].description
             newCell.publishedDateLabel?.text = newDataItem.publishedDate
-
+            
             if let url = URL(string: newDataItem.imageURL) {
-                ImageDownloader().downloadImage(url: url) { image, error in
-                    DispatchQueue.main.async {
-                        newCell.imgeView.image = image
-                    }
-                }
+                
+                newCell.imgView?.downloadAndSet(imageUrl: url)
             }
         }
     }
