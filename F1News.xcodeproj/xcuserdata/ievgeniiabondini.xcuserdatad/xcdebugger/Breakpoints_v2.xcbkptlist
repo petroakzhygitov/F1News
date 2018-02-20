@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "F1NewsTests/WebServiceTests.swift"
+            timestampString = "541982876.746546"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "test_download_Should_return_rsponce()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "F1NewsTests/NewsDataWebServiceTests.swift"
+            timestampString = "540853990.263177"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "test_loadNewsData_should_return_newsItems()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "F1NewsTests/NewsDataWebServiceTests.swift"
+            timestampString = "540853990.2635"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "test_loadNewsData_should_return_newsItems()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;F1News.NewDataItem&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in F1NewsTests.NewsDataWebServiceTests.test_loadNewsData_should_return_newsItems() -&gt; ()"
+                  moduleName = "F1NewsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ievgeniiabondini/Documents/Projects/F1/F1NewsTests/NewsDataWebServiceTests.swift"
+                  timestampString = "540852637.1098"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Bool in closure #1 (Swift.Array&lt;F1News.NewDataItem&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in F1NewsTests.NewsDataWebServiceTests.test_loadNewsData_should_return_newsItems() -&gt; ()"
+                  moduleName = "F1NewsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ievgeniiabondini/Documents/Projects/F1/F1NewsTests/NewsDataWebServiceTests.swift"
+                  timestampString = "540852637.114674"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "F1NewsTests/NewsDataWebServiceTests.swift"
+            timestampString = "540853990.263731"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "test_loadNewsData_should_pass_correct_url()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;F1News.NewDataItem&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in F1NewsTests.NewsDataWebServiceTests.test_loadNewsData_should_pass_correct_url() -&gt; ()"
+                  moduleName = "F1NewsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ievgeniiabondini/Documents/Projects/F1/F1NewsTests/NewsDataWebServiceTests.swift"
+                  timestampString = "540853724.7042921"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Bool in closure #1 (Swift.Array&lt;F1News.NewDataItem&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in F1NewsTests.NewsDataWebServiceTests.test_loadNewsData_should_pass_correct_url() -&gt; ()"
+                  moduleName = "F1NewsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ievgeniiabondini/Documents/Projects/F1/F1NewsTests/NewsDataWebServiceTests.swift"
+                  timestampString = "540853724.706408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "F1NewsTests/NewsDataWebServiceTests.swift"
+            timestampString = "540853990.263953"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "test_loadNewsData_should_pass_correct_url()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "F1NewsTests.NewsDataWebServiceTests.test_loadNewsData_should_pass_correct_url() -&gt; ()"
+                  moduleName = "F1NewsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ievgeniiabondini/Documents/Projects/F1/F1NewsTests/NewsDataWebServiceTests.swift"
+                  timestampString = "540853724.709159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;F1News.NewDataItem&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in F1NewsTests.NewsDataWebServiceTests.test_loadNewsData_should_pass_correct_url() -&gt; ()"
+                  moduleName = "F1NewsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ievgeniiabondini/Documents/Projects/F1/F1NewsTests/NewsDataWebServiceTests.swift"
+                  timestampString = "540853724.71208"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "F1NewsTests/NewsDataWebServiceTests.swift"
+            timestampString = "540853990.264178"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "downLoadString(url:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
