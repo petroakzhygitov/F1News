@@ -4,7 +4,7 @@ import SDWebImage
 class NewsFeedViewController: UITableViewController {
 
     private let newsDataService = NewsDataWebService()
-    private var newsDataItems: [NewDataItem] = [NewDataItem]()
+    private var newsDataItems: [NewsDataItem] = [NewsDataItem]()
     var cellPopulation: NewsCellPopulation?
 
 
@@ -50,6 +50,17 @@ class NewsFeedViewController: UITableViewController {
 
     override func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
         cellPopulation?.populate(cell: cell, newDataItem: newsDataItems[indexPath.row])
+    }
+    
+    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        let selectedNewsViewVM = ArticleViewVM(newsDataItem: newsDataItems[indexPath.row])
+        
+        let mainStoryBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
+        let selectedViewController = mainStoryBoard.instantiate(SelectedNewsViewController.self)
+        selectedViewController.selectedNewsViewVM = selectedNewsViewVM
+        
+        self.navigationController?.pushViewController(selectedViewController, animated: true)
+        self.tableView.deselectRow(at: indexPath, animated: true)
     }
 
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {

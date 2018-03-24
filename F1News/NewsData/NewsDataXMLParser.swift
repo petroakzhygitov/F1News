@@ -7,7 +7,7 @@ class NewsDataXMLParser: NSObject, XMLParserDelegate {
     private var parsingElement: Bool = false
     private var parsingElementName: String = ""
 
-    private var newsItems: Array<NewDataItem> = Array<NewDataItem>()
+    private var newsItems: Array<NewsDataItem> = Array<NewsDataItem>()
 
     private var itemTitle: String = ""
     private var itemDescription: String = ""
@@ -16,8 +16,8 @@ class NewsDataXMLParser: NSObject, XMLParserDelegate {
     private var itemPublishDate: String = ""
     private var itemImageURL: String = ""
 
-    func parse(data: Data) -> Array<NewDataItem> {
-        newsItems = Array<NewDataItem>()
+    func parse(data: Data) -> Array<NewsDataItem> {
+        newsItems = Array<NewsDataItem>()
         
         let xmlParser: XMLParser = XMLParser.init(data: data)
         xmlParser.delegate = self
@@ -121,8 +121,8 @@ class NewsDataXMLParser: NSObject, XMLParserDelegate {
         newsItems.append(newItem)
     }
 
-    private func createNewDataItem() -> NewDataItem {
-        return NewDataItem(id: itemGUID,
+    private func createNewDataItem() -> NewsDataItem {
+        return NewsDataItem(id: itemGUID,
                 description: itemDescription,
                 title: itemTitle,
                 link: itemLink,

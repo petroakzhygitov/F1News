@@ -3,7 +3,7 @@ import UIKit
 
 class NewsCellPopulation {
     
-    func populate(cell: UITableViewCell, newDataItem: NewDataItem)  {
+    func populate(cell: UITableViewCell, newDataItem: NewsDataItem)  {
         if let newCell = cell as? NewViewCell {
             newCell.titleLabel?.text = newDataItem.title
             newCell.descriptionLabel?.text = newDataItem.description
