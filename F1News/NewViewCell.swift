@@ -1,11 +1,3 @@
-//
-//  NewViewCell.swift
-//  F1News
-//
-//  Created by Petro Akzhygitov on 18/12/17.
-//  Copyright © 2017 Petro Akzhygitov. All rights reserved.
-//
-
 import Foundation
 import UIKit
 

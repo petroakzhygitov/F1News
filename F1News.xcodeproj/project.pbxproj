@@ -132,8 +132,8 @@
 			children = (
 				912E91E01FE856250077C282 /* ViewCell */,
 				91415D871FE040BC0059C54B /* AppDelegate.swift */,
-				91415D891FE040BC0059C54B /* NewsFeedViewController.swift */,
 				91415D8B1FE040BC0059C54B /* SecondViewController.swift */,
+				91415D891FE040BC0059C54B /* NewsFeedViewController.swift */,
 				7AFFAEF720506B79006398A8 /* NewsCellPopulation.swift */,
 				91415D8D1FE040BC0059C54B /* Main.storyboard */,
 				91415D901FE040BC0059C54B /* Assets.xcassets */,
