@@ -51,6 +51,18 @@ class NewsFeedViewController: UITableViewController {
     override func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
         cellPopulation?.populate(cell: cell, newDataItem: newsDataItems[indexPath.row], indexPath: indexPath.row)
     }
+    
+    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        let cell = tableView.dequeueReusableCell(withIdentifier: "cellIdentifier", for: indexPath)
+        
+        if cell is NewViewCell {
+            cellPopulation?.populate(cell: cell, newDataItem: newsDataItems[indexPath.row])
+        
+            let htmlParser =  HTMLParser(urlString: newsDataItems[indexPath.row].link)
+            htmlParser.getTextOutOfHTML()
+            //after merging ISS-11 where htmlParser(title and text) will be passed to ArticleViewController
+        }
+    }
 
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         return 332;
