@@ -11,7 +11,7 @@ class NewsDataWebService {
         self.webService = webService
     }
 
-    func loadNewsData(completion: @escaping (Array<NewDataItem>, Error?) -> ()) {
+    func loadNewsData(completion: @escaping (Array<NewsDataItem>, Error?) -> ()) {
         let url = URL(string:RSSPath.newsRU.rawValue)!
         self.webService.downLoadString(url: url) { dataString, error in
             guard error == nil else {
@@ -20,7 +20,7 @@ class NewsDataWebService {
             let data = dataString.data(using: .utf8)!
             
             let parser: NewsDataXMLParser = NewsDataXMLParser()
-            let newsDataItems: Array<NewDataItem> = parser.parse(data: data)
+            let newsDataItems: Array<NewsDataItem> = parser.parse(data: data)
             completion(newsDataItems, nil)
         }
     }
