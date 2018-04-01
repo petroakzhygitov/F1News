@@ -13,7 +13,7 @@ class HTMLParser {
         self.urlString = urlString
     }
     
-    func getTextOutOfHTML(){
+    func parse(){
         
         guard let myURL = URL(string: self.urlString) else {
             print("Error: \(self.urlString) doesn't seem to be a valid URL")
