@@ -1,0 +1,4 @@
+language: objective-c
+osx_image: xcode9.2
+script:
+  - xcodebuild -workspace F1News.xcworkspace -scheme F1News -sdk iphonesimulator11.2 build test -destination 'platform=iOS Simulator,name=iPhone X,OS=11.2' | xcpretty
