@@ -9,11 +9,11 @@ class NewsCellPopulation {
             newCell.descriptionLabel?.text = newDataItem.description
             newCell.publishedDateLabel?.text = newDataItem.publishedDate
             
+            newCell.imgView?.sd_cancelCurrentImageLoad()
             if let url = URL(string: newDataItem.imageURL) {
                 newCell.imgView?.downloadAndSet(imageUrl: url)
             }
         }
-    }
-    
+    }    
 }
 
