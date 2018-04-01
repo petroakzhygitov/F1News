@@ -1,2 +1,5 @@
-
+F1News.xcworkspace
 F1News.xcodeproj/.idea/*
+F1News.xcodeproj/xcuserdata/*
+Pods
+Podfile.lock

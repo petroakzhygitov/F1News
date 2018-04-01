@@ -2,7 +2,7 @@ import Foundation
 
 typealias XMLDictionary = [String: String]
 
-struct NewDataItem {
+struct NewsDataItem {
     
     let id: String
     let description: String
