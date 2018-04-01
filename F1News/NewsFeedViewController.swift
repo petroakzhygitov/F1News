@@ -49,7 +49,7 @@ class NewsFeedViewController: UITableViewController {
     }
 
     override func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
-        cellPopulation?.populate(cell: cell, newDataItem: newsDataItems[indexPath.row])
+        cellPopulation?.populate(cell: cell, newDataItem: newsDataItems[indexPath.row], indexPath: indexPath.row)
     }
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
