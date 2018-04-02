@@ -12,7 +12,7 @@ class WebServiceTests: XCTestCase {
         //act
         let url = URL(string: "https://www.f1news.ru/export/news.xml")!
         websevrice.downLoadString(url: url){ response, error in
-           print(response)
+            print(response)
             //assert
             XCTAssert(response.range(of:"<?xml") != nil)
             XCTAssert(error == nil)

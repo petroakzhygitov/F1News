@@ -5,6 +5,7 @@ target 'F1News' do
   
   pod 'SDWebImage', '~> 4.0'
   pod 'SwiftSoup'
+  pod 'SwiftyBeaver'
 
   target 'F1NewsTests' do
     inherit! :search_paths    
