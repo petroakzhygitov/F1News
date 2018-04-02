@@ -11,7 +11,7 @@ class WebService {
             catch let error as NSError {
                 
                 completion("", error)
-                print("Error took place while downloading a file. Error description: \(error)")
+                Logger.error("Error took place while downloading a file. Error description: \(error)")
             }
         }
     }

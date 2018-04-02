@@ -25,7 +25,7 @@ class NewsFeedViewController: UITableViewController {
             }
 
             if error != nil {
-                print("There was an error while loading news data: \(String(describing: error))")
+                Logger.error("There was an error while loading news data: \(String(describing: error))")
                 return
             }
 
