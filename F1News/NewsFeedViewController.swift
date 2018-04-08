@@ -16,6 +16,7 @@ class NewsFeedViewController: UITableViewController {
         loadNewsData()
         cellPopulation = NewsCellPopulation()
 
+        self.navigationItem.titleView = LogoImageView()
     }
 
     private func loadNewsData() {
