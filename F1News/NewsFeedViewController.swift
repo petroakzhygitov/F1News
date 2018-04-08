@@ -3,6 +3,10 @@ import SDWebImage
 
 class NewsFeedViewController: UITableViewController {
 
+    private enum Constants {
+        static let TableViewCellHeight: CGFloat = 400.0
+    }
+    
     private let newsDataService = NewsDataWebService()
     private var newsDataItems: [NewsDataItem] = [NewsDataItem]()
     var cellPopulation: NewsCellPopulation?
@@ -65,7 +69,7 @@ class NewsFeedViewController: UITableViewController {
     }
 
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 332;
+        return Constants.TableViewCellHeight;
     }
 }
 
