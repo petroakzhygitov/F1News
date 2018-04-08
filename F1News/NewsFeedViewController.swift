@@ -2,7 +2,7 @@ import UIKit
 import SDWebImage
 
 class NewsFeedViewController: UITableViewController {
-
+    
     private let newsDataService = NewsDataWebService()
     private var newsDataItems: [NewsDataItem] = [NewsDataItem]()
     var cellPopulation: NewsCellPopulation?
@@ -16,8 +16,9 @@ class NewsFeedViewController: UITableViewController {
         loadNewsData()
         cellPopulation = NewsCellPopulation()
 
+        self.navigationItem.titleView = LogoImageView()
     }
-
+    
     private func loadNewsData() {
         newsDataService.loadNewsData(completion: { [weak self] newsDataItems, error in
             guard let strongSelf = self else {
@@ -64,7 +65,7 @@ class NewsFeedViewController: UITableViewController {
     }
 
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 332;
+        return 400;
     }
 }
 
