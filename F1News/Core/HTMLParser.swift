@@ -16,7 +16,7 @@ class HTMLParser {
     func parse(){
         
         guard let myURL = URL(string: self.urlString) else {
-            print("Error: \(self.urlString) doesn't seem to be a valid URL")
+            Logger.error("Error: \(self.urlString) doesn't seem to be a valid URL")
             return
         }
         do {
@@ -34,13 +34,13 @@ class HTMLParser {
                     self.text += try! paragraph.text()
                 }
             } catch Exception.Error( _, let message) {
-                print(message)
+                Logger.error(message)
             } catch {
-                print("error")
+                Logger.error("Error happend while parsing HTML")
             }
             
         } catch let error {
-            print("Error: \(error)")
+           Logger.error("Error: \(error)")
         }
     }
     
