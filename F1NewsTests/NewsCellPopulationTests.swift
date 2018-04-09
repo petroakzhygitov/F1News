@@ -7,7 +7,7 @@ class NewsCellPopulationTests: XCTestCase {
     
     func test_setCell_Should_Set_Values_CellProperty() {
         //arrange
-        let newsDataItem = NewDataItem(id: "tetsID", description: "testDescription", title: "testTitle", link: "teslLink", publishedDate: "testPublishedDate", imageURL: "test")
+        let newsDataItem = NewsDataItem(id: "tetsID", description: "testDescription", title: "testTitle", link: "teslLink", publishedDate: "testPublishedDate", imageURL: "test")
         
         let cell = NewViewCell(style: UITableViewCellStyle.default, reuseIdentifier: "cellIdentifier")
         
