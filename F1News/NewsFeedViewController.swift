@@ -3,6 +3,10 @@ import SDWebImage
 
 class NewsFeedViewController: UITableViewController {
 
+    private enum Constants {
+        static let TableViewCellHeight: CGFloat = 400.0
+    }
+    
     private let newsDataService = NewsDataWebService()
     private var newsDataItems: [NewsDataItem] = [NewsDataItem]()
     var cellPopulation: NewsCellPopulation?
@@ -16,6 +20,7 @@ class NewsFeedViewController: UITableViewController {
         loadNewsData()
         cellPopulation = NewsCellPopulation()
 
+        self.navigationItem.titleView = LogoImageView()
     }
 
     private func loadNewsData() {
@@ -25,7 +30,7 @@ class NewsFeedViewController: UITableViewController {
             }
 
             if error != nil {
-                print("There was an error while loading news data: \(String(describing: error))")
+                Logger.error("There was an error while loading news data: \(String(describing: error))")
                 return
             }
 
@@ -64,7 +69,7 @@ class NewsFeedViewController: UITableViewController {
     }
 
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 332;
+        return Constants.TableViewCellHeight;
     }
 }
 
