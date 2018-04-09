@@ -19,7 +19,7 @@ class NewsDataWebService {
             }
             let data = dataString.data(using: .utf8)!
             
-            let parser: NewsDataXMLParser = NewsDataXMLParser()
+            let parser: ArticlesXMLParser = ArticlesXMLParser()
             let newsDataItems: Array<NewsDataItem> = parser.parse(data: data)
             completion(newsDataItems, nil)
         }
