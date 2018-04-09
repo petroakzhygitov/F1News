@@ -18,7 +18,7 @@ class NewsDataXMLParserTests: XCTestCase {
         let parser: NewsDataXMLParser = NewsDataXMLParser()
         do {
             let data: Data = try Data.init(contentsOf: url)
-            let newsDataItems: Array<NewDataItem> = parser.parse(data: data)
+            let newsDataItems: Array<NewsDataItem> = parser.parse(data: data)
 
             print("News: \(newsDataItems)")
         } catch {}
